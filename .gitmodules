@@ -1,0 +1,3 @@
+[submodule "disposable_email_domain_list"]
+	path = disposable_email_domain_list
+	url = https://github.com/HANKE/disposable-email-domain-list.git
